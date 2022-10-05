@@ -1,5 +1,20 @@
 # Education_Pathways
 
+**Activity 2**
+
+![](images/Activity2.png)
+
+**Activity 3**
+
+![](images/Activity3.png)
+
+**Activity 4**
+
+![](images/Activity4Docker.png)
+
+![](images/Activity4App.png)
+
+
 This is a modified version of the previous Assignment1 template.
 
 The deploye version can be found at https://lab3-docker.herokuapp.com.
